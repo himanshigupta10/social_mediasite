@@ -1,0 +1,4 @@
+After adding apollo-client extension to chrome  , I'm not getting 
+apollo tab in chrome inspector.
+I've checked in manage extension , there error came in inspect views
+that is background page (inactive).

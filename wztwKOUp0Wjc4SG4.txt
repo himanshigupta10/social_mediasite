@@ -1,0 +1,2 @@
+wztwKOUp0Wjc4SG4
+mongodb+srv://classed:<password>@cluster0.kgeu9.mongodb.net/<dbname>?retryWrites=true&w=majority
